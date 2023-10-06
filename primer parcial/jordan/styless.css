@@ -1,0 +1,9 @@
+*{
+    font-family : 'courier new', courier, monospace;
+}
+body{ 
+    background-color: rgba(243, 70, 182, 0.594);
+}
+H1{
+    color: rgb(0, 0, 0);
+}
